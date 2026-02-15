@@ -15,10 +15,10 @@ Built using **OpenAI Agents SDK**, **Gradio**, and managed with **uv**.
 > Add your screenshots to the repo and update the paths below.
 
 ### Gradio UI
-![Deep Research UI](assets/gradio-ui-1.png)
+![Deep Research UI](gradio-ui-1.png)
 
 ### Generated report example
-![Generated Report](assets/gradio-ui-2.png)
+![Generated Report](gradio-ui-2.png)
 
 ---
 
